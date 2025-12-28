@@ -1,3 +1,4 @@
+Quotation_Management_System
 This is a web-based Quotation Management System built with Laravel on the backend and HTML, CSS, JavaScript, and Bootstrap on the frontend.
 
 The system is designed to help users create and manage quotations in a simple and organized way. 
